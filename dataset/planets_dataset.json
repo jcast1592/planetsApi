@@ -6,7 +6,7 @@
         "orbital_period_in_days": 88,
         "satellites": 0,
         "radius_in_km": 2438.7,
-        "planet_picture": ""
+        "planet_picture": "https://raw.githubusercontent.com/jcast1592/planetsApi/master/images/mercury.jpg"
     },
     {
         "planet": "Venus",
@@ -15,7 +15,7 @@
         "orbital_period_in_days": 225,
         "satellites": 0,
         "radius_in_km": 6051.8,
-        "planet_picture": ""
+        "planet_picture": "https://raw.githubusercontent.com/jcast1592/planetsApi/master/images/venus.jpg"
     },
     {
         "planet": "Earth",
@@ -24,7 +24,7 @@
         "orbital_period_in_days": 365,
         "satellites": 1,
         "radius_in_km": 6371.0,
-        "planet_picture": ""
+        "planet_picture": "https://raw.githubusercontent.com/jcast1592/planetsApi/master/images/earth.jpg"
     },
     {
         "planet": "Mars",
@@ -33,7 +33,7 @@
         "orbital_period_in_days": 687,
         "satellites": 2,
         "radius_in_km": 3389.5,
-        "planet_picture": ""
+        "planet_picture": "https://raw.githubusercontent.com/jcast1592/planetsApi/master/images/mars.jpg"
     },
     {
         "planet": "Jupiter",
@@ -42,7 +42,7 @@
         "orbital_period_in_days": 4332,
         "satellites": 79,
         "radius_in_km": 69911.0,
-        "planet_picture": ""
+        "planet_picture": "https://raw.githubusercontent.com/jcast1592/planetsApi/master/images/jupiter.jpg"
     },
     {
         "planet": "Saturn",
@@ -51,7 +51,7 @@
         "orbital_period_in_days": 10759,
         "satellites": 82,
         "radius_in_km": 58232.0,
-        "planet_picture": ""
+        "planet_picture": "https://raw.githubusercontent.com/jcast1592/planetsApi/master/images/saturn.jpg"
     },
     {
         "planet": "Uranus",
@@ -60,7 +60,7 @@
         "orbital_period_in_days": 30688,
         "satellites": 27,
         "radius_in_km": 25362.0,
-        "planet_picture": ""
+        "planet_picture": "https://raw.githubusercontent.com/jcast1592/planetsApi/master/images/uranus.jpg"
     },
     {
         "planet": "Neptune",
@@ -69,6 +69,6 @@
         "orbital_period_in_days": 60182,
         "satellites": 14,
         "radius_in_km": 24622.0,
-        "planet_picture": ""
+        "planet_picture": "https://raw.githubusercontent.com/jcast1592/planetsApi/master/images/neptune.jpg"
     }
 ]
